@@ -1,9 +1,9 @@
 # Collaborating Objects
 
-## Objective
+## Learning Goals
 
-1. Gain a deeper understanding of object relations
-2. Use other classes and methods within another class to collaboratively send messages to one another
+- Gain a deeper understanding of object relations
+- Use other classes and methods within another class to collaboratively send messages to one another
 
 ## Introduction
 
